@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: f1b0c4fd4aa4a4d5ab43564d49f57c1b
+timeCreated: 1493912845
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: imageedit_5_4481540232_0
+    21300002: imageedit_5_4481540232_1
+    21300004: imageedit_5_4481540232_2
+    21300006: imageedit_5_4481540232_3
+    21300008: imageedit_5_4481540232_4
+    21300010: imageedit_5_4481540232_5
+    21300012: imageedit_5_4481540232_6
+    21300014: imageedit_5_4481540232_7
+    21300016: imageedit_5_4481540232_8
+    21300018: imageedit_5_4481540232_9
+    21300020: imageedit_5_4481540232_10
+    21300022: imageedit_5_4481540232_11
+    21300024: imageedit_5_4481540232_12
+    21300026: imageedit_5_4481540232_13
+    21300028: imageedit_5_4481540232_14
+    21300030: imageedit_5_4481540232_15
+    21300032: imageedit_5_4481540232_16
+    21300034: imageedit_5_4481540232_17
+    21300036: imageedit_5_4481540232_18
+    21300038: imageedit_5_4481540232_19
+    21300040: imageedit_5_4481540232_20
+    21300042: imageedit_5_4481540232_21
+    21300044: imageedit_5_4481540232_22
+    21300046: imageedit_5_4481540232_23
+    21300048: imageedit_5_4481540232_24
+    21300050: imageedit_5_4481540232_25
+    21300052: imageedit_5_4481540232_26
+    21300054: imageedit_5_4481540232_27
+    21300056: imageedit_5_4481540232_28
+    21300058: imageedit_5_4481540232_29
+    21300060: imageedit_5_4481540232_30
+    21300062: imageedit_5_4481540232_31
+    21300064: imageedit_5_4481540232_32
+    21300066: imageedit_5_4481540232_33
+    21300068: imageedit_5_4481540232_34
+    21300070: imageedit_5_4481540232_35
+    21300072: imageedit_5_4481540232_36
+    21300074: imageedit_5_4481540232_37
+    21300076: imageedit_5_4481540232_38
+    21300078: imageedit_5_4481540232_39
+    21300080: imageedit_5_4481540232_40
+    21300082: imageedit_5_4481540232_41
+    21300084: imageedit_5_4481540232_42
+    21300086: imageedit_5_4481540232_43
+    21300088: imageedit_5_4481540232_44
+    21300090: imageedit_5_4481540232_45
+    21300092: imageedit_5_4481540232_46
+    21300094: imageedit_5_4481540232_47
+    21300096: imageedit_5_4481540232_48
+    21300098: imageedit_5_4481540232_49
+    21300100: imageedit_5_4481540232_50
+    21300102: imageedit_5_4481540232_51
+    21300104: imageedit_5_4481540232_52
+    21300106: imageedit_5_4481540232_53
+    21300108: imageedit_5_4481540232_54
+    21300110: imageedit_5_4481540232_55
+    21300112: imageedit_5_4481540232_56
+    21300114: imageedit_5_4481540232_57
+    21300116: imageedit_5_4481540232_58
+    21300118: imageedit_5_4481540232_59
+    21300120: imageedit_5_4481540232_60
+    21300122: imageedit_5_4481540232_61
+    21300124: imageedit_5_4481540232_62
+    21300126: imageedit_5_4481540232_63
+    21300128: imageedit_5_4481540232_64
+    21300130: imageedit_5_4481540232_65
+    21300132: imageedit_5_4481540232_66
+    21300134: imageedit_5_4481540232_67
+    21300136: imageedit_5_4481540232_68
+    21300138: imageedit_5_4481540232_69
+    21300140: imageedit_5_4481540232_70
+    21300142: imageedit_5_4481540232_71
+    21300144: imageedit_5_4481540232_72
+    21300146: imageedit_5_4481540232_73
+    21300148: imageedit_5_4481540232_74
+    21300150: imageedit_5_4481540232_75
+    21300152: imageedit_5_4481540232_76
+    21300154: imageedit_5_4481540232_77
+    21300156: imageedit_5_4481540232_78
+    21300158: imageedit_5_4481540232_79
+    21300160: imageedit_5_4481540232_80
+    21300162: imageedit_5_4481540232_81
+    21300164: imageedit_5_4481540232_82
+    21300166: imageedit_5_4481540232_83
+    21300168: imageedit_5_4481540232_84
+    21300170: imageedit_5_4481540232_85
+    21300172: imageedit_5_4481540232_86
+    21300174: imageedit_5_4481540232_87
+    21300176: imageedit_5_4481540232_88
+    21300178: imageedit_5_4481540232_89
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_0
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 695
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 638
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 638
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 638
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 638
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 638
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_6
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 638
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_7
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 638
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 589
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 589
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_10
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 540
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 540
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 540
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 540
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 540
+        width: 30
+        height: 27
+      alignment: 9
+      pivot: {x: 0.462913, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 540
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 540
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 491
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 491
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 491
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 491
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 508
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 491
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 509
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 491
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 510
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 491
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 461
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 442
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 442
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 442
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 442
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 393
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 393
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_34
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 393
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_35
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 393
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 393
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_37
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 393
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_38
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 393
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 344
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_40
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 344
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 344
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_42
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 344
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_43
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 354
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_44
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 344
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_45
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 354
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_46
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 344
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_47
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 354
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_48
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 344
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 295
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 295
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 295
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 246
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 246
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 246
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 246
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_56
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 246
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 246
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 246
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_59
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 197
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_60
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 197
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 197
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 197
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 197
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_64
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 197
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_65
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 197
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_66
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 161
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 148
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_68
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 148
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_69
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 99
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 99
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_72
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 99
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_73
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 99
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_74
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 99
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_75
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 99
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_76
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 99
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_77
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 50
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_78
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 50
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 50
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_80
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 50
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_81
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 50
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_82
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 50
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 50
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_84
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_85
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_88
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: imageedit_5_4481540232_89
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

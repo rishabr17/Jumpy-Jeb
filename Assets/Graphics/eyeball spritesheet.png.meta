@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: bd9eb21eae46e2042951ee3a9b58de33
+timeCreated: 1493206423
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eyeball spritesheet_0
+    21300002: eyeball spritesheet_1
+    21300004: eyeball spritesheet_2
+    21300006: eyeball spritesheet_3
+    21300008: eyeball spritesheet_4
+    21300010: eyeball spritesheet_5
+    21300012: eyeball spritesheet_6
+    21300014: eyeball spritesheet_7
+    21300016: eyeball spritesheet_8
+    21300018: eyeball spritesheet_9
+    21300020: eyeball spritesheet_10
+    21300022: eyeball spritesheet_11
+    21300024: eyeball spritesheet_12
+    21300026: eyeball spritesheet_13
+    21300028: eyeball spritesheet_14
+    21300030: eyeball spritesheet_15
+    21300032: eyeball spritesheet_16
+    21300034: eyeball spritesheet_17
+    21300036: eyeball spritesheet_18
+    21300038: eyeball spritesheet_19
+    21300040: eyeball spritesheet_20
+    21300042: eyeball spritesheet_21
+    21300044: eyeball spritesheet_22
+    21300046: eyeball spritesheet_23
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eyeball spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 73
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 71
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 70
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 42
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 40
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 40
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 8
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: eyeball spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 7
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
