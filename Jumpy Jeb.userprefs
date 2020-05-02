@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlatformGenerator1.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player.cs" Line="333" Column="72" />
+      <File FileName="Assets/Scripts/Store.cs" Line="186" Column="78" />
+      <File FileName="Assets/Scripts/PlatformGenerator1.cs" Line="118" Column="29" />
+      <File FileName="Assets/Scripts/Blast.cs" Line="44" Column="1" />
+      <File FileName="Assets/Scripts/Mage.cs" Line="71" Column="41" />
+      <File FileName="Assets/Scripts/Ghost.cs" Line="86" Column="29" />
+      <File FileName="Assets/Scripts/Camera.cs" Line="42" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

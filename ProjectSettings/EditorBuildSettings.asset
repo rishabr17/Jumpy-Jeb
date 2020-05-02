@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 0531b36f402ce764faba161debff359e
+  - enabled: 1
+    path: Assets/Scenes/Jumpy Jeb.unity
+    guid: 52761ad443b6f04468233a1d88a5a22b
+  - enabled: 1
+    path: Assets/Scenes/MainMenu 1.unity
+    guid: 32bb820bd52e9a14bb9f258309067784
+  - enabled: 1
+    path: Assets/MainMenu2.unity
+    guid: a175831e94d8c41299bffb18564c8884
